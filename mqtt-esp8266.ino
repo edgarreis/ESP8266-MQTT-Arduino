@@ -28,9 +28,9 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid =  "GaragemHacker";                  //"VISITANTE";                       //"AndroidAP";
-const char* password = "rapadura";                    //"visita2014vasco";             //"kyio7159";
-const char* mqtt_server = "1.1.1.3";                  //"iot.eclipse.org";
+const char* ssid =  ""
+const char* password = ""
+const char* mqtt_server = ""
 const char* topicPot = "dev/node1/potentiometer";
 const char* topicTemp = "dev/node1/temperature";
 const char* topicHum = "dev/node1/humidity";
